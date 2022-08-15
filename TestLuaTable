@@ -1,0 +1,19 @@
+local Seasons = {
+
+	["S1"] = {
+		["ID"] = 1,
+		["Abbreviation"] = "S1",
+		["Number"] = "One",
+		["String"] = "Season 1",
+		["Ordinal"] = "First"},
+	
+	["S2"] = {
+		["ID"] = 2,
+		["Abbreviation"] = "S2",
+		["Number"] = "Two",
+		["String"] = "Season 2",
+		["Ordinal"] = "Second"}
+
+}
+
+return Seasons
