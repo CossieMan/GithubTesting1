@@ -1,0 +1,23 @@
+{
+    "NewsPage": {
+		"Page1": {
+			"TabTitle": "ANOTHER PAGE?", 
+			"Title": "MORE NEWS PAGES",
+ 			"Body": "What's that at the top of the screen? That's right! There are now multiple news page tabs!",
+   			 "Image": "8374288189"
+},
+		"Page2": {
+			"TabTitle": "UPDATED GUI",
+			"Title": "UPDATED GUI",
+ 			"Body": "A more sleek news page design is being worked on as we speak!",
+   			 "Image": "8613970794"
+}
+},
+
+	"GameFeatures": {
+			"GunsDisabled": "true",
+			"TestPart": "false"
+
+}
+
+}
